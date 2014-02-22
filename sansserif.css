@@ -1,12 +1,11 @@
-@import url("http://fonts.googleapis.com/css?family=Oswald:400,700");
-
+@import url("http://fonts.googleapis.com/css?family=Oswald:300,400,700");
 body {
 	background-image: url(img/background.jpg);
 	background-color: #000000;
 	background-size: cover;
 	background-repeat:no-repeat;
 	overflow: hidden;
-	font: 1.5em Oswald;
+	font: 300 1.5em Oswald;
 	margin:5px;
 }
 hr {
@@ -21,13 +20,13 @@ hr {
 }
 h1{
 	margin: 0;
-	font: Oswald;
+	font: 300 2em Oswald;
 	color: #FFFFFF;
-	font-weight: normal;
+	font-weight: 300;
 }
 h2, h3, p {
 	margin: 0;
-	font: Oswald;
+	font: 300 Oswald;
 	color: #A0A0A0;
 }
 img {
@@ -49,7 +48,7 @@ img {
 	width: 25%;
 	height: 100px;
 	float: left;
-	font: .85em Oswald;
+	font: 300 .85em Oswald;
 	color: white;
 	font-weight: bold;
 	text-align: left;
@@ -60,7 +59,7 @@ img {
 	text-align: center;
 	float: left;
 	font-size: 1em;
-	font: 1em Oswald;
+	font: 300 1em Oswald;
 	font-weight: 400;
 	color: white;
 	vertical-align: middle;
@@ -69,7 +68,7 @@ img {
 .HeaderRight {
 	width: 25%;
 	float: right;
-	font: .85em Oswald;
+	font: 300 .85em Oswald;
 	color: white;
 	font-weight: bold;
 	text-align: right;
@@ -97,7 +96,7 @@ table thead{
 }
 table thead th{
 	min-height:35px;
-	font: .65em Oswald;
+	font: 300 .65em Oswald;
 	color: white;
 	font-weight: bold;
 	vertical-align: top;
@@ -148,13 +147,13 @@ span.tapcircle {
   width: 2em; 
 }
 table h3{
-	font: .8em Oswald;
+	font: 300 .8em Oswald;
 	-webkit-margin-before: 5px;
 	-webkit-margin-after: 5px;
 	text-align:center;
 }
 table h2{
-	font: 1em Oswald;
+	font: 300 1em Oswald;
 	-webkit-margin-before: 0px;
 	-webkit-margin-after: 0px;
 	text-align:center;
@@ -163,16 +162,16 @@ table h1{
 	color: white;
 	opacity:1;
 	display:block;
-	font: 1.5em Oswald;
+	font: 300 1.5em Oswald;
 	font-weight: normal;
 }
 table .subhead{
 	width:100%;
-	font: .9em Oswald;
+	font: 300 .9em Oswald;
 	text-align:left;
 }
 table p{
-	font: .8em Oswald;
+	font: 300 .8em Oswald;
 	color: #A0A0A0;
 	margin-top:20px;
 }
